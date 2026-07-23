@@ -1,0 +1,111 @@
+header {
+  z-index: 20;
+  height: 100px;
+  border-bottom: 4px solid var(--y);
+  background: var(--c);
+  color: #111;
+}
+
+.site-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.site-brand .site-symbol {
+  width: 112px;
+  height: 84px;
+  object-fit: contain;
+  background: transparent;
+}
+
+.site-brand .site-wordmark {
+  width: 198px;
+  height: auto;
+  object-fit: contain;
+  background: transparent;
+}
+
+header nav .pill {
+  background: #111;
+  color: var(--y);
+}
+
+header #menu {
+  color: #111;
+}
+
+footer {
+  border-top: 4px solid var(--y);
+}
+
+.footer-brand-mark {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--c);
+}
+
+.footer-brand-mark img {
+  width: 180px;
+  height: auto;
+  background: transparent;
+}
+
+@media (max-width: 900px) {
+  header #menu {
+    display: block;
+  }
+
+  header nav {
+    position: absolute;
+    z-index: 9;
+    top: 100px;
+    right: 0;
+    left: 0;
+    display: none;
+    flex-direction: column;
+    padding: 22px;
+    background: #111;
+    color: #fff;
+  }
+
+  header nav.open {
+    display: flex;
+  }
+
+  header nav .pill {
+    background: var(--y);
+    color: #111;
+  }
+}
+
+@media (max-width: 760px) {
+  header {
+    height: 86px;
+  }
+
+  .site-brand {
+    gap: 8px;
+  }
+
+  .site-brand .site-symbol {
+    width: 86px;
+    height: 66px;
+  }
+
+  .site-brand .site-wordmark {
+    width: 145px;
+  }
+
+  header nav {
+    top: 86px;
+    color: #fff;
+  }
+
+  header nav .pill {
+    background: var(--y);
+    color: #111;
+  }
+}

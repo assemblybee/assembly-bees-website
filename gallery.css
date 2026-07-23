@@ -1,1 +1,122 @@
-.gallery figure{margin:0;position:relative;overflow:hidden;background:#111}.gallery figure img{width:100%;height:360px;display:block;object-fit:cover;transition:transform .5s ease}.gallery figure:hover img{transform:scale(1.04)}.gallery figcaption{position:absolute;left:0;right:0;bottom:0;padding:45px 20px 18px;background:linear-gradient(transparent,rgba(0,0,0,.85));color:#fff;font-weight:900;text-transform:uppercase;letter-spacing:.08em}@media(max-width:760px){.gallery figure img{height:280px}}
+.project-intro {
+  max-width: 760px;
+  margin: -18px 0 44px;
+  color: #625e55;
+}
+
+.project-showcases {
+  display: grid;
+  gap: 28px;
+}
+
+.project-showcase {
+  position: relative;
+  min-height: 590px;
+  margin: 0;
+  overflow: hidden;
+  background: #111;
+}
+
+.project-showcase img {
+  display: block;
+  width: 100%;
+  height: 590px;
+  object-fit: cover;
+  transition: transform 650ms ease;
+}
+
+.project-showcase:hover img {
+  transform: scale(1.025);
+}
+
+.project-showcase::after {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.84) 0%, rgba(0, 0, 0, 0.35) 48%, rgba(0, 0, 0, 0.04) 80%);
+  content: "";
+}
+
+.project-showcase figcaption {
+  position: absolute;
+  z-index: 1;
+  left: 46px;
+  bottom: 46px;
+  display: flex;
+  max-width: 650px;
+  align-items: flex-start;
+  gap: 22px;
+  color: #fff;
+}
+
+.project-number {
+  display: inline-flex;
+  width: 52px;
+  height: 52px;
+  flex: 0 0 52px;
+  align-items: center;
+  justify-content: center;
+  background: #ffc400;
+  color: #111;
+  font-weight: 900;
+}
+
+.project-showcase figcaption p {
+  margin: 0 0 6px;
+  color: #ffc400;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.18em;
+}
+
+.project-showcase figcaption h3 {
+  max-width: 590px;
+  margin: 0 0 8px;
+  font-family: Impact, "Arial Black", sans-serif;
+  font-size: clamp(2rem, 4vw, 4.1rem);
+  font-weight: 400;
+  line-height: 0.98;
+  text-transform: uppercase;
+}
+
+.project-showcase figcaption div > span {
+  display: block;
+  max-width: 550px;
+  color: #e4e4e4;
+}
+
+@media (max-width: 760px) {
+  .project-intro {
+    margin-top: -8px;
+  }
+
+  .project-showcase,
+  .project-showcase img {
+    min-height: 430px;
+    height: 430px;
+  }
+
+  .project-showcase::after {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.18) 75%);
+  }
+
+  .project-showcase figcaption {
+    left: 22px;
+    right: 22px;
+    bottom: 24px;
+    gap: 14px;
+  }
+
+  .project-number {
+    width: 42px;
+    height: 42px;
+    flex-basis: 42px;
+  }
+
+  .project-showcase figcaption h3 {
+    font-size: clamp(1.8rem, 9vw, 2.7rem);
+  }
+
+  .project-showcase figcaption div > span {
+    font-size: 0.9rem;
+  }
+}

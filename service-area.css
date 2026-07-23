@@ -1,0 +1,61 @@
+.area {
+  position: relative;
+  overflow: hidden;
+  min-height: 590px;
+  grid-template-columns: minmax(340px, .78fr) 1.22fr;
+  grid-template-rows: auto auto;
+  align-content: center;
+  align-items: start;
+  gap: 20px;
+  color: #fff;
+  background: #080808 url('assets/assembly-bees-van.png') 68% center/cover no-repeat;
+  isolation: isolate;
+}
+
+.area::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(90deg, rgba(0, 0, 0, .96) 0%, rgba(0, 0, 0, .86) 38%, rgba(0, 0, 0, .18) 66%, rgba(0, 0, 0, .04) 100%);
+}
+
+.area > div,
+.area > p {
+  grid-column: 1;
+}
+
+.area .eyebrow.dark {
+  color: #fff;
+}
+
+.area .eyebrow.dark::before {
+  background: var(--y);
+}
+
+.area > div > p:not(.eyebrow) {
+  color: #ddd;
+}
+
+.area > p {
+  margin: 0;
+  padding: 20px;
+  color: #fff;
+  background: rgba(0, 0, 0, .56);
+  border-left: 4px solid var(--y);
+  backdrop-filter: blur(5px);
+}
+
+@media (max-width: 760px) {
+  .area {
+    min-height: 720px;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    align-content: end;
+    background-position: 66% center;
+  }
+
+  .area::before {
+    background: linear-gradient(0deg, rgba(0, 0, 0, .94) 0%, rgba(0, 0, 0, .76) 52%, rgba(0, 0, 0, .12) 100%);
+  }
+}
