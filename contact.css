@@ -1,3 +1,7 @@
+.photo-upload span{color:#ffc400;font-size:.75rem}
+.photo-upload input[type="file"]{padding:12px;background:#222;border:1px dashed #777;color:#eee;cursor:pointer;max-width:100%;box-sizing:border-box}
+.photo-upload input[type="file"]::file-selector-button{margin-right:12px;padding:10px 14px;border:0;background:#ffc400;color:#111;font-weight:800;cursor:pointer}
+.photo-upload small{display:block;margin-top:7px;font-size:.78rem;font-weight:400;text-align:left;text-transform:none;letter-spacing:0}
 .contact-choice {
   display: grid;
   grid-template-columns: 0.85fr 1.15fr;
