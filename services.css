@@ -5,6 +5,29 @@
   font-size: 1rem;
 }
 
+/* Extend the existing service link over the photo and all card content. */
+.service-catalog .service-photo-card {
+  position: relative;
+}
+
+.service-photo-card h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  cursor: pointer;
+}
+
+.service-catalog .service-photo-card:focus-within {
+  outline: 3px solid #111;
+  outline-offset: 4px;
+}
+
+.service-photo-card h3 a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 .service-catalog {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
