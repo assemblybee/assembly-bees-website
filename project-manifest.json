@@ -263,5 +263,319 @@
         "source": "573B9119-CB72-43CC-8491-B8C534C54B54_1_105_c.jpeg"
       }
     ]
+  },
+  {
+    "service": "gazebo-pergola-assembly",
+    "slug": "methuen-double-pergola",
+    "title": "Flexpatio Double Pergola Assembly",
+    "city": "Methuen, MA",
+    "description": "Assembled a double Flexpatio pergola over a poolside patio, creating a spacious shaded area beside the outdoor kitchen.",
+    "photos": [
+      {
+        "src": "assets/projects/methuen-double-pergola/01.webp",
+        "small": "assets/projects/methuen-double-pergola/01-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "AB87F720-26B8-4AC1-AA19-E1CFE7257E8E_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/methuen-double-pergola/02.webp",
+        "small": "assets/projects/methuen-double-pergola/02-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "8796B39D-72BE-4C38-A0CA-5A35BA462CD2_1_105_c.jpeg"
+      }
+    ]
+  },
+  {
+    "service": "gazebo-pergola-assembly",
+    "slug": "framingham-glass-pergola",
+    "title": "Pergola with Glass Enclosures & Motorized Shade",
+    "city": "Framingham, MA",
+    "description": "Assembled a louvered pergola with glass panels on three sides and a motorized shade on the fourth. Integrated lighting creates a welcoming outdoor space for evening relaxation.",
+    "photos": [
+      {
+        "src": "assets/projects/framingham-glass-pergola/01.webp",
+        "small": "assets/projects/framingham-glass-pergola/01-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "AF41F24E-8131-4035-AE85-D4C5938567A3_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/framingham-glass-pergola/02.webp",
+        "small": "assets/projects/framingham-glass-pergola/02-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "7315F77C-6A6E-49F3-9275-1DB44ED4CEA0_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/framingham-glass-pergola/03.webp",
+        "small": "assets/projects/framingham-glass-pergola/03-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "F645C41F-7EE6-4096-8F3B-938D2F8BC7C2_1_105_c.jpeg"
+      }
+    ]
+  },
+  {
+    "service": "fitness-equipment-assembly",
+    "slug": "weymouth-rogue-gym",
+    "title": "Rogue Home Gym Assembly",
+    "city": "Weymouth, MA",
+    "description": "Assembled a Rogue power rack with a cable pulley system and workout bench for a dedicated home gym.",
+    "photos": [
+      {
+        "src": "assets/projects/weymouth-rogue-gym/01.webp",
+        "small": "assets/projects/weymouth-rogue-gym/01-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "2A47A135-7031-486C-9F7F-1BFA923060A3_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/weymouth-rogue-gym/02.webp",
+        "small": "assets/projects/weymouth-rogue-gym/02-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "6B724DB3-D384-40F5-BCB1-932E0F745714.heic"
+      },
+      {
+        "src": "assets/projects/weymouth-rogue-gym/03.webp",
+        "small": "assets/projects/weymouth-rogue-gym/03-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "5A6FDEC2-35FB-4A37-B287-C11D23E96486.heic"
+      }
+    ]
+  },
+  {
+    "service": "shed-assembly",
+    "slug": "woburn-storage-shed",
+    "title": "8\u00d76 Storage Shed Assembly",
+    "city": "Woburn, MA",
+    "description": "Assembled an 8\u00d76-foot backyard storage shed with double doors, upper windows, and a wood-framed interior\u2014providing space for tools and outdoor equipment.",
+    "photos": [
+      {
+        "src": "assets/projects/woburn-storage-shed/01.webp",
+        "small": "assets/projects/woburn-storage-shed/01-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "F763393F-ACAA-4AF3-A12A-383EB7B01916_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/woburn-storage-shed/02.webp",
+        "small": "assets/projects/woburn-storage-shed/02-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "43B8480D-12C5-41C8-932B-6EC2228E134E.heic"
+      },
+      {
+        "src": "assets/projects/woburn-storage-shed/03.webp",
+        "small": "assets/projects/woburn-storage-shed/03-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "04164D87-6F56-469B-ABB2-F962CA957A07.heic"
+      },
+      {
+        "src": "assets/projects/woburn-storage-shed/04.webp",
+        "small": "assets/projects/woburn-storage-shed/04-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "D02C530B-EFFA-4113-92B2-6F9F538E5DCD_1_105_c.jpeg"
+      }
+    ]
+  },
+  {
+    "service": "shed-assembly",
+    "slug": "needham-shed-platform",
+    "title": "8\u00d716 Shed & Platform Assembly",
+    "city": "Needham, MA",
+    "description": "Built a raised wooden platform and assembled an 8\u00d716-foot storage shed, creating a spacious backyard storage area with double-door access.",
+    "photos": [
+      {
+        "src": "assets/projects/needham-shed-platform/01.webp",
+        "small": "assets/projects/needham-shed-platform/01-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "1D1D8D1B-C718-4E95-97E2-D1628C36A510_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/needham-shed-platform/02.webp",
+        "small": "assets/projects/needham-shed-platform/02-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "DCFEEE0B-F600-4648-9EAA-C717A53D9BE5_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/needham-shed-platform/03.webp",
+        "small": "assets/projects/needham-shed-platform/03-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "77A2D2C7-19EE-4655-B6E4-4A22175547EA_1_105_c.jpeg"
+      }
+    ]
+  },
+  {
+    "service": "gazebo-pergola-assembly",
+    "slug": "beverly-pergola",
+    "title": "10\u00d710 Pergola Assembly",
+    "city": "Beverly, MA",
+    "description": "Assembled a 10\u00d710-foot pergola, creating a defined outdoor space for relaxing and gathering.",
+    "photos": [
+      {
+        "src": "assets/projects/beverly-pergola/01.webp",
+        "small": "assets/projects/beverly-pergola/01-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "4C097750-E480-476D-8527-DBD6ABE986ED.heic"
+      },
+      {
+        "src": "assets/projects/beverly-pergola/02.webp",
+        "small": "assets/projects/beverly-pergola/02-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "AF9ABACD-60BB-446C-A671-346ABDF7B38D.heic"
+      }
+    ]
+  },
+  {
+    "service": "playset-assembly",
+    "slug": "south-hamilton-trampoline",
+    "title": "Trampoline Assembly",
+    "city": "South Hamilton, MA",
+    "description": "Assembled a backyard trampoline for an outdoor recreation space. Photos include the yard before assembly.",
+    "photos": [
+      {
+        "src": "assets/projects/south-hamilton-trampoline/01.webp",
+        "small": "assets/projects/south-hamilton-trampoline/01-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "90CCBA3F-1560-4B9F-9977-CB933DA5A8E8.heic"
+      },
+      {
+        "src": "assets/projects/south-hamilton-trampoline/02.webp",
+        "small": "assets/projects/south-hamilton-trampoline/02-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "B0CD0C40-42F3-4D2F-9CE5-31F276913628_1_105_c.jpeg"
+      }
+    ]
+  },
+  {
+    "service": "furniture-assembly",
+    "slug": "randolph-bedroom",
+    "title": "Wallpaper, Furniture Assembly & Wall Mounting",
+    "city": "Randolph, MA",
+    "description": "Installed brick-pattern wallpaper, assembled furniture, and mounted wall d\u00e9cor to refresh this bedroom.",
+    "photos": [
+      {
+        "src": "assets/projects/randolph-bedroom/01.webp",
+        "small": "assets/projects/randolph-bedroom/01-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "FA2F6F1A-0794-44A4-BBD1-1271A1BDEFF5_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/randolph-bedroom/02.webp",
+        "small": "assets/projects/randolph-bedroom/02-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "1B5F39B0-DD8A-48A3-868C-4EE321ACE264.heic"
+      }
+    ]
+  },
+  {
+    "service": "gazebo-pergola-assembly",
+    "slug": "peabody-gazebo",
+    "title": "Gazebo Assembly",
+    "city": "Peabody, MA",
+    "description": "Assembled a wood-framed gazebo with a metal roof over a backyard patio, creating a covered space for outdoor seating and relaxation.",
+    "photos": [
+      {
+        "src": "assets/projects/peabody-gazebo/01.webp",
+        "small": "assets/projects/peabody-gazebo/01-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "A6F2EB3D-B2D7-4638-B006-2D0A084D466D_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/peabody-gazebo/02.webp",
+        "small": "assets/projects/peabody-gazebo/02-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "B995650B-2E5D-4C72-95DA-02ECBA2D674B.heic"
+      },
+      {
+        "src": "assets/projects/peabody-gazebo/03.webp",
+        "small": "assets/projects/peabody-gazebo/03-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "054FAA5C-21FC-404C-9A2C-58A8BA2FB431.heic"
+      },
+      {
+        "src": "assets/projects/peabody-gazebo/04.webp",
+        "small": "assets/projects/peabody-gazebo/04-small.webp",
+        "width": 1200,
+        "height": 1600,
+        "smallwidth": 480,
+        "source": "9644A7AF-AAC0-45A8-A975-F80DE62B8884.heic"
+      }
+    ]
+  },
+  {
+    "service": "furniture-assembly",
+    "slug": "waltham-apartment",
+    "title": "Apartment Furniture Assembly",
+    "city": "Waltham, MA",
+    "description": "Assembled furniture throughout the apartment, including a bed frame, TV console, coffee table, and dining table with chairs.",
+    "photos": [
+      {
+        "src": "assets/projects/waltham-apartment/01.webp",
+        "small": "assets/projects/waltham-apartment/01-small.webp",
+        "width": 1024,
+        "height": 769,
+        "smallwidth": 640,
+        "source": "446937C6-52E8-47D3-88D8-384BD2F9FCCB_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/waltham-apartment/02.webp",
+        "small": "assets/projects/waltham-apartment/02-small.webp",
+        "width": 769,
+        "height": 1024,
+        "smallwidth": 481,
+        "source": "418A6160-BA8A-4C44-AA3C-4F5119AE144E_1_105_c.jpeg"
+      },
+      {
+        "src": "assets/projects/waltham-apartment/03.webp",
+        "small": "assets/projects/waltham-apartment/03-small.webp",
+        "width": 1024,
+        "height": 769,
+        "smallwidth": 640,
+        "source": "ACD65F49-BDB5-4859-9975-126061565366_1_105_c.jpeg"
+      }
+    ]
   }
 ]
